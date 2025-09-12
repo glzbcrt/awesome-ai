@@ -1,0 +1,54 @@
+@mcpHost = http://localhost:3000
+@authHost = http://localhost:3001
+
+POST {{mcpHost}}/mcp
+Accept: application/json, text/event-stream
+Content-Type: application/json
+
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "method": "initialize",
+  "params": {
+    "protocolVersion": "2024-11-05",
+    "capabilities": {
+      "roots": { "listChanged": true },
+      "sampling": {},
+      "elicitation": {}
+    },
+    "clientInfo": {
+      "name": "ExampleClient",
+      "title": "Example Client Display Name",
+      "version": "1.0.0"
+    }
+  }
+}
+
+###
+
+// Get the MCP server OAuth protected resource, and from there extract the OAuth authorization endpoint.
+GET {{host}}/.well-known/oauth-protected-resource
+
+###
+
+// Get the MCP server OAuth protected resource, and from there extract the OAuth authorization endpoint.
+
+GET {{authHost}}/.well-known/oauth-authorization-server
+
+###
+
+POST {{authHost}}/register
+Content-Type: application/json
+
+{
+    "redirect_uris": [
+        "https://client.example.org/callback",
+        "https://client.example.org/callback2"
+    ],
+    "client_name": "My Example Client",
+    "client_name#ja-Jpan-JP":"\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u540D",
+    "token_endpoint_auth_method": "client_secret_basic",
+    "logo_uri": "https://client.example.org/logo.png",
+    "jwks_uri": "https://client.example.org/my_public_keys.jwks",
+    "example_extension_parameter": "example_value"
+}
