@@ -15,3 +15,9 @@
 
 - [To survive the AI age, the web needs a new business model](https://archive.ph/SbAPw)
 - [AI is killing the web. Can anything save it?](https://archive.ph/oIW5w)
+
+## Data Centers
+
+- [Exposing The Dark Side of America's AI Data Center Explosion](https://www.youtube.com/watch?v=t-8TDOFqkQA)
+- [How AI Datacenters Eat the World](https://www.youtube.com/watch?v=dhqoTku-HAA)
+- [Datacenter Anatomy Part 1: Electrical Systems](https://semianalysis.com/2024/10/14/datacenter-anatomy-part-1-electrical/)

@@ -11,3 +11,7 @@
 
 - [Agent to Agent - A2A](./protocols/agent-to-agent.md)
 - [Model Context Protocol - MCP](./protocols/model-context-protocol.md)
+
+## Tools
+
+- [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
