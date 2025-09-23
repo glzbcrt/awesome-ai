@@ -15,12 +15,16 @@
 
 ## Servers
 
-- [Model Context Protocol servers](https://github.com/modelcontextprotocol/servers)
 - [Microsoft MCP Servers](https://github.com/microsoft/mcp)
 - [Microsoft MCP Center ](https://mcp.azure.com/)
 - [GitHub MCP Server](https://github.com/github/github-mcp-server)
-- [Everything MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/everything)
 - [SQL Server MCP Server](https://github.com/Azure-Samples/SQL-AI-samples/tree/main/MssqlMcp/dotnet)
+
+### Reference MCP Servers for Common Scenarios
+
+- [Model Context Protocol servers](https://github.com/modelcontextprotocol/servers)
+- [Everything MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/everything)
+- [Filesystem MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)
 
 ## Videos
 

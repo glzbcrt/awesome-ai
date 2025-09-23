@@ -16,3 +16,11 @@
 ## Performance
 
 - [1.5x Faster MoE Training with Custom MXFP8 Kernels](https://cursor.com/blog/kernels)
+
+## Chat Template
+
+- [Chat Templates](https://huggingface.co/docs/transformers/en/chat_templating)
+
+## Numbers and Formats
+
+- [What’s MXFP4? The 4-Bit Secret Powering OpenAI’s GPT‑OSS Models on Modest Hardware](https://huggingface.co/blog/RakshitAralimatti/learn-ai-with-me)

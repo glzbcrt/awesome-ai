@@ -2,6 +2,11 @@
 
 - [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
 - [Context Engineering - Short-Term Memory Management with Sessions from OpenAI Agents SDK](https://cookbook.openai.com/examples/agents_sdk/session_memory)
+- [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
+
+## Retrieval Augmented Generation (RAG)
+
+- [Chunking Strategies to Improve Your RAG Performance](https://weaviate.io/blog/chunking-strategies-for-rag)
 
 ## Memory
 
@@ -9,6 +14,7 @@
 - [Redis - A developer’s guide to agent memory](../assets/250826_Redis_ePub_Whitepaper_AIAgentMemory.pdf)
 - [Build smarter AI agents: Manage short-term and long-term memory with Redis](https://redis.io/blog/build-smarter-ai-agents-manage-short-term-and-long-term-memory-with-redis/)
 - [Agent Memory with Redis](https://github.com/redis-developer/redis-ai-resources/blob/main/python-recipes/agents/03_memory_agent.ipynb)
+- [ChatGPT Memory FAQ](https://help.openai.com/en/articles/8590148-memory-faq)
 
 ### Tools and Frameworks
 

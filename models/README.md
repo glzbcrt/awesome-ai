@@ -7,12 +7,6 @@ This section provides an overview of generative AI models, including their capab
 - [Comparing models @ OpenRouter](https://openrouter.ai/models)
 - [GitHub Models](https://github.com/marketplace/models)
 
-## Model Building
+## Tracing
 
-### Chat Template
-
-- [Chat Templates](https://huggingface.co/docs/transformers/en/chat_templating)
-
-### Numbers and Formats
-
-- [What’s MXFP4? The 4-Bit Secret Powering OpenAI’s GPT‑OSS Models on Modest Hardware](https://huggingface.co/blog/RakshitAralimatti/learn-ai-with-me)
+- [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)

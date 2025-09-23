@@ -15,3 +15,8 @@
 ## Tools
 
 - [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
+
+## Multi Agent Systems
+
+- [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
+- [Azure Deep Research: Reasoning Research Assistant](https://github.com/Azure-Samples/deepresearch)
