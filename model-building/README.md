@@ -3,6 +3,7 @@
 ## Videos
 
 - [Official PyTorch Documentary: Powering the AI Revolution](https://www.youtube.com/watch?v=rgP_LBtaUEc)
+- [Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447](https://www.youtube.com/watch?v=oFfVt3S51T4)
 
 ### How models work
 

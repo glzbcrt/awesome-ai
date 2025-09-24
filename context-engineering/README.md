@@ -4,9 +4,30 @@
 - [Context Engineering - Short-Term Memory Management with Sessions from OpenAI Agents SDK](https://cookbook.openai.com/examples/agents_sdk/session_memory)
 - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 
+## Context Management
+
+- [How to trim messages](https://python.langchain.com/docs/how_to/trim_messages/)
+- [Provence: efficient and robust context pruning for retrieval-augmented generation](https://arxiv.org/abs/2501.16214)
+
+## Tools
+
+- [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](https://arxiv.org/abs/2410.14594)
+- [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](https://arxiv.org/abs/2505.03275)
+
 ## Retrieval Augmented Generation (RAG)
 
 - [Chunking Strategies to Improve Your RAG Performance](https://weaviate.io/blog/chunking-strategies-for-rag)
+- [RAG From Scratch](https://github.com/langchain-ai/rag-from-scratch)
+
+### Knowledge Graphs
+
+- [Knowledge Graph Generation](https://neo4j.com/blog/developer/knowledge-graph-generation/)
+- [GraphRAG with a Knowledge Graph](https://graphrag.com/)
+
+## Semantic and Embedding
+
+- [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
+- [The Art of Pooling Embeddings](https://blog.ml6.eu/the-art-of-pooling-embeddings-c56575114cf8)
 
 ## Memory
 
@@ -15,6 +36,7 @@
 - [Build smarter AI agents: Manage short-term and long-term memory with Redis](https://redis.io/blog/build-smarter-ai-agents-manage-short-term-and-long-term-memory-with-redis/)
 - [Agent Memory with Redis](https://github.com/redis-developer/redis-ai-resources/blob/main/python-recipes/agents/03_memory_agent.ipynb)
 - [ChatGPT Memory FAQ](https://help.openai.com/en/articles/8590148-memory-faq)
+- [JavaScript Object Notation (JSON) Patch](https://datatracker.ietf.org/doc/html/rfc6902)
 
 ### Tools and Frameworks
 

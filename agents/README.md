@@ -20,3 +20,7 @@
 
 - [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
 - [Azure Deep Research: Reasoning Research Assistant](https://github.com/Azure-Samples/deepresearch)
+
+## Products
+
+- [E2B - AI Sandboxes](https://e2b.dev/)
