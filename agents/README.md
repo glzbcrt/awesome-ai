@@ -6,6 +6,7 @@
 - [Evaluating success in a multi-agent system: Why trajectory assessment and handoffs matters](https://discuss.google.dev/t/evaluating-success-in-a-multi-agent-system-why-trajectory-assessment-and-handoffs-matters/193308)
 - [Agents are not tools](https://discuss.google.dev/t/agents-are-not-tools/192812)
 - [Unlock the power of AI Agents with Tools, Actions and Enterprise Data](https://discuss.google.dev/t/unlock-the-power-of-ai-agents-with-tools-actions-and-enterprise-data/188758)
+- [Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 
 ## Protocols
 
@@ -24,3 +25,7 @@
 ## Products
 
 - [E2B - AI Sandboxes](https://e2b.dev/)
+
+## Samples
+
+- [Open Deep Research from LangChain](https://github.com/langchain-ai/open_deep_research)

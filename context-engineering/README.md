@@ -3,6 +3,8 @@
 - [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
 - [Context Engineering - Short-Term Memory Management with Sessions from OpenAI Agents SDK](https://cookbook.openai.com/examples/agents_sdk/session_memory)
 - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
+- [How Long Contexts Fail](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html)
+- [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 
 ## Context Management
 
@@ -13,6 +15,7 @@
 
 - [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](https://arxiv.org/abs/2410.14594)
 - [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](https://arxiv.org/abs/2505.03275)
+- [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
 
 ## Retrieval Augmented Generation (RAG)
 
@@ -35,10 +38,21 @@
 - [Redis - A developer’s guide to agent memory](../assets/250826_Redis_ePub_Whitepaper_AIAgentMemory.pdf)
 - [Build smarter AI agents: Manage short-term and long-term memory with Redis](https://redis.io/blog/build-smarter-ai-agents-manage-short-term-and-long-term-memory-with-redis/)
 - [Agent Memory with Redis](https://github.com/redis-developer/redis-ai-resources/blob/main/python-recipes/agents/03_memory_agent.ipynb)
+- [Memory @ LangGraph](https://langchain-ai.github.io/langgraph/concepts/memory/)
+- [Memory and new controls for ChatGPT](https://openai.com/index/memory-and-new-controls-for-chatgpt/)
 - [ChatGPT Memory FAQ](https://help.openai.com/en/articles/8590148-memory-faq)
 - [JavaScript Object Notation (JSON) Patch](https://datatracker.ietf.org/doc/html/rfc6902)
 
 ### Tools and Frameworks
+
+#### LangGraph
+
+- [LangGraph ReAct Memory Agent](https://github.com/langchain-ai/memory-agent)
+- [LangGraph Memory Service](https://github.com/langchain-ai/memory-template)
+
+#### Libraries
+
+- [trustcall](https://github.com/hinthornw/trustcall)
 
 #### Redis
 
