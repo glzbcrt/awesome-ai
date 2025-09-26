@@ -7,6 +7,9 @@
 - [Agents are not tools](https://discuss.google.dev/t/agents-are-not-tools/192812)
 - [Unlock the power of AI Agents with Tools, Actions and Enterprise Data](https://discuss.google.dev/t/unlock-the-power-of-ai-agents-with-tools-actions-and-enterprise-data/188758)
 - [Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
+- [What are agents? 🤔](https://huggingface.co/docs/smolagents/conceptual_guides/intro_agents)
+- [How do multi-step agents work?](https://huggingface.co/docs/smolagents/conceptual_guides/react)
+- [Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)
 
 ## Protocols
 
@@ -29,3 +32,4 @@
 ## Samples
 
 - [Open Deep Research from LangChain](https://github.com/langchain-ai/open_deep_research)
+- [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research)
