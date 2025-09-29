@@ -14,6 +14,7 @@
 ### Mixture Of Experts
 
 - [Mixture of Experts (MoE) Introduction](https://www.youtube.com/watch?v=v7U21meXd6Y)
+- [The MoE 101 Guide](https://www.cerebras.ai/moe-guide)
 
 ## Performance
 

@@ -6,6 +6,7 @@
 - [How Long Contexts Fail](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html)
 - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 - [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool)
+- [Launching Prompt Adaptation](https://www.notdiamond.ai/blog/launching-prompt-adaptation)
 
 ## Context Management
 

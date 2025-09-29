@@ -9,7 +9,8 @@
 - [Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 - [What are agents? 🤔](https://huggingface.co/docs/smolagents/conceptual_guides/intro_agents)
 - [How do multi-step agents work?](https://huggingface.co/docs/smolagents/conceptual_guides/react)
-- [Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)
+- [Building good agents](https://huggingface.co/docs/smolagents/tutorials/building_good_agents)
+- [Secure code execution](https://huggingface.co/docs/smolagents/tutorials/secure_code_execution)
 
 ## Protocols
 
@@ -20,6 +21,10 @@
 
 - [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
 
+## Observability
+
+- [Inspecting runs with OpenTelemetry](https://huggingface.co/docs/smolagents/tutorials/inspect_runs)
+
 ## Multi Agent Systems
 
 - [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
@@ -28,8 +33,20 @@
 ## Products
 
 - [E2B - AI Sandboxes](https://e2b.dev/)
+- [Modal - High-performance AI infrastructure](https://modal.com/)
+- [n8n](https://n8n.io/)
+
+## Open Source Projects
+
+- [n8n](https://github.com/n8n-io/n8n)
 
 ## Samples
 
+### Research Agents
+
 - [Open Deep Research from LangChain](https://github.com/langchain-ai/open_deep_research)
 - [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research)
+
+### Data Agents
+
+- [Building and Evaluating Data Agents](https://www.deeplearning.ai/short-courses/building-and-evaluating-data-agents/)
