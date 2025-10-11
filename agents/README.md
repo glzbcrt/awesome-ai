@@ -11,11 +11,14 @@
 - [How do multi-step agents work?](https://huggingface.co/docs/smolagents/conceptual_guides/react)
 - [Building good agents](https://huggingface.co/docs/smolagents/tutorials/building_good_agents)
 - [Secure code execution](https://huggingface.co/docs/smolagents/tutorials/secure_code_execution)
+- [Building agents with the Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk)
+- [Managing context on the Claude Developer Platform](https://www.anthropic.com/news/context-management)
 
 ## Protocols
 
 - [Agent to Agent - A2A](./protocols/agent-to-agent.md)
 - [Model Context Protocol - MCP](./protocols/model-context-protocol.md)
+- [AGENTS.md](https://agents.md/)
 
 ## Tools
 
@@ -35,16 +38,25 @@
 - [E2B - AI Sandboxes](https://e2b.dev/)
 - [Modal - High-performance AI infrastructure](https://modal.com/)
 - [n8n](https://n8n.io/)
+- [Letta](https://www.letta.com/)
 
 ## Open Source Projects
 
 - [n8n](https://github.com/n8n-io/n8n)
+- [Letta](https://github.com/letta-ai/letta)
 
 ## Samples
 
-### Research Agents
+### Deep Agents
 
+- [Project: Deep Agents with LangGraph](https://academy.langchain.com/courses/deep-agents-with-langgraph)
+- [🧠🤖Deep Agents](https://github.com/langchain-ai/deepagents)
+
+### Deep Research Agents
+
+- [Project: Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph)
 - [Open Deep Research from LangChain](https://github.com/langchain-ai/open_deep_research)
+
 - [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research)
 
 ### Data Agents

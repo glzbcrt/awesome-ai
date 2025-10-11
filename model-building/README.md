@@ -10,6 +10,9 @@
 - [How to Create a Neural Network (and Train it to Identify Doodles)](https://www.youtube.com/watch?v=hfMk-kjRv4c)
 - [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
+- [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+- [FineWeb: decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
+- [Most devs don't understand how LLM tokens work](https://www.youtube.com/watch?v=nKSk_TiR8YA)
 
 ### Mixture Of Experts
 

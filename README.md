@@ -9,3 +9,7 @@ The building blocks of agents are:
 - [Context Engineering](./context-engineering/README.md)
 - [Protocols](./protocols/README.md)
 - [Security](./SECURITY.md)
+
+## Videos
+
+- [Is The AI Infrastructure Buildout Overdone? — With Microsoft's Cloud & AI Head Scott Guthrie](https://www.youtube.com/watch?v=g6vFyuCZrVs)

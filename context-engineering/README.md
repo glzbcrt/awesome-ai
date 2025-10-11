@@ -1,5 +1,6 @@
 # Context Engineering
 
+- [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
 - [Context Engineering - Short-Term Memory Management with Sessions from OpenAI Agents SDK](https://cookbook.openai.com/examples/agents_sdk/session_memory)
 - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
@@ -7,6 +8,7 @@
 - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 - [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool)
 - [Launching Prompt Adaptation](https://www.notdiamond.ai/blog/launching-prompt-adaptation)
+- [Anatomy of a Context Window: A Guide to Context Engineering](https://www.letta.com/blog/guide-to-context-engineering)
 
 ## Context Management
 
@@ -23,6 +25,7 @@
 
 - [Chunking Strategies to Improve Your RAG Performance](https://weaviate.io/blog/chunking-strategies-for-rag)
 - [RAG From Scratch](https://github.com/langchain-ai/rag-from-scratch)
+- [Introducing Contextual Retrieval](https://www.anthropic.com/engineering/contextual-retrieval)
 
 ### Knowledge Graphs
 
@@ -44,6 +47,18 @@
 - [Memory and new controls for ChatGPT](https://openai.com/index/memory-and-new-controls-for-chatgpt/)
 - [ChatGPT Memory FAQ](https://help.openai.com/en/articles/8590148-memory-faq)
 - [JavaScript Object Notation (JSON) Patch](https://datatracker.ietf.org/doc/html/rfc6902)
+
+### Anthropic
+
+- [Bringing memory to teams at work](https://www.anthropic.com/news/memory)
+- [Memory tool](https://docs.claude.com/en/docs/agents-and-tools/tool-use/memory-tool)
+- [Context editing](https://docs.claude.com/en/docs/build-with-claude/context-editing)
+- [Managing context on the Claude Developer Platform](https://www.anthropic.com/news/context-management)
+- [Memory & Context Management with Claude Sonnet 4.5](https://github.com/anthropics/claude-cookbooks/blob/main/tool_use/memory_cookbook.ipynb)
+
+### AWS
+
+- [Amazon Bedrock AgentCore Memory: Building context-aware agents](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/)
 
 ### Tools and Frameworks
 
