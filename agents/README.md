@@ -13,12 +13,26 @@
 - [Secure code execution](https://huggingface.co/docs/smolagents/tutorials/secure_code_execution)
 - [Building agents with the Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk)
 - [Managing context on the Claude Developer Platform](https://www.anthropic.com/news/context-management)
+- [Introducing the Agent Development Environment](https://www.letta.com/blog/introducing-the-agent-development-environment)
+- [Agent File (.af): An open file format for stateful agents.](https://github.com/letta-ai/agent-file)
+- [Memory Blocks: The Key to Agentic Context Management](https://www.letta.com/blog/memory-blocks)
+- [The AI agents stack](https://www.letta.com/blog/ai-agents-stack)
+
+## Memory
+
+- [Agent Memory: How to Build Agents that Learn and Remember](https://www.letta.com/blog/agent-memory)
+- [Introducing Claude Sonnet 4.5 and the memory omni-tool in Letta](https://www.letta.com/blog/introducing-sonnet-4-5-and-the-memory-omni-tool-in-letta)
 
 ## Protocols
 
 - [Agent to Agent - A2A](./protocols/agent-to-agent.md)
 - [Model Context Protocol - MCP](./protocols/model-context-protocol.md)
 - [AGENTS.md](https://agents.md/)
+
+## File System
+
+- [Introducing Letta Filesystem](https://www.letta.com/blog/letta-filesystem)
+- [Benchmarking AI Agent Memory: Is a Filesystem All You Need?](https://www.letta.com/blog/benchmarking-ai-agent-memory)
 
 ## Tools
 
@@ -39,6 +53,8 @@
 - [Modal - High-performance AI infrastructure](https://modal.com/)
 - [n8n](https://n8n.io/)
 - [Letta](https://www.letta.com/)
+- [Composio](https://composio.dev/)
+- [Rube](https://rube.app/)
 
 ## Open Source Projects
 

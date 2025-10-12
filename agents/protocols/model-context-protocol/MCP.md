@@ -19,6 +19,7 @@
 - [Microsoft MCP Center ](https://mcp.azure.com/)
 - [GitHub MCP Server](https://github.com/github/github-mcp-server)
 - [SQL Server MCP Server](https://github.com/Azure-Samples/SQL-AI-samples/tree/main/MssqlMcp/dotnet)
+- [Docker mcp Servers](https://hub.docker.com/u/mcp)
 
 ### Reference MCP Servers for Common Scenarios
 
@@ -33,6 +34,7 @@
 - [Remote MCPs: What we learned from shipping — John Welsh, Anthropic](https://www.youtube.com/watch?v=0NHCyq8bBcM)
 - [Multi Agent Collaboration in MCP with Nicholas Aldridge from AWS](https://www.youtube.com/watch?v=XreKuebKpaA)
 - [[Keynote] MCP201: The Protocol in Depth with David Soria Parra at Anthropic](https://www.youtube.com/watch?v=C_nqAWHsldo)
+- [Building with MCP and the Claude API](https://www.youtube.com/watch?v=aZLr962R6Ag)
 
 ## Tools
 

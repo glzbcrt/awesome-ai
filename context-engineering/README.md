@@ -25,17 +25,32 @@
 
 - [Chunking Strategies to Improve Your RAG Performance](https://weaviate.io/blog/chunking-strategies-for-rag)
 - [RAG From Scratch](https://github.com/langchain-ai/rag-from-scratch)
+- [Retrieval Augmented Generation](https://github.com/anthropics/claude-cookbooks/blob/main/skills/retrieval_augmented_generation/guide.ipynb)
+- [RAG is not Agent Memory](https://www.letta.com/blog/rag-vs-agent-memory)
+
+### BM25
+
+- [Practical BM25 — Part 2: The BM25 Algorithm and its variables](https://www.elastic.co/blog/practical-bm25-part-2-the-bm25-algorithm-and-its-variables)
+
+### Contextual Retrieval
+
 - [Introducing Contextual Retrieval](https://www.anthropic.com/engineering/contextual-retrieval)
+- [Enhancing RAG with Contextual Retrieval](https://github.com/anthropics/claude-cookbooks/blob/main/skills/contextual-embeddings/guide.ipynb)
 
 ### Knowledge Graphs
 
 - [Knowledge Graph Generation](https://neo4j.com/blog/developer/knowledge-graph-generation/)
 - [GraphRAG with a Knowledge Graph](https://graphrag.com/)
 
-## Semantic and Embedding
+### Semantic and Embedding
 
 - [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
 - [The Art of Pooling Embeddings](https://blog.ml6.eu/the-art-of-pooling-embeddings-c56575114cf8)
+
+### Companies
+
+- [Voyage AI](https://www.voyageai.com/)
+- [Voyage AI Docs](https://docs.voyageai.com/)
 
 ## Memory
 
