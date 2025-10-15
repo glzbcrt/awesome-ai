@@ -59,21 +59,18 @@
 ### Letta
 
 - [Letta](https://www.letta.com/)
+- [Letta](https://github.com/letta-ai/letta)
 - [Building Stateful Agents with Letta](https://docs.letta.com/guides/agents/overview)
 
 ### n8n
 
 - [n8n](https://n8n.io/)
+- [n8n](https://github.com/n8n-io/n8n)
 - [Master 80% of n8n in 36 Minutes](https://www.youtube.com/watch?v=e3OV3LnrS7o)
 - [n8n-azure-container-app](https://github.com/pjpaulor/n8n-azure-container-app)
 - [MCP Server Trigger node](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.mcptrigger/)
 - [n8n MCP](https://www.n8n-mcp.com/)
 - [Hosting n8n on Azure](https://docs.n8n.io/hosting/installation/server-setups/azure/)
-
-## Open Source Projects
-
-- [n8n](https://github.com/n8n-io/n8n)
-- [Letta](https://github.com/letta-ai/letta)
 
 ## Samples
 
