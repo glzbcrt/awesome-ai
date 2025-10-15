@@ -5,6 +5,7 @@ This section provides an overview of generative AI models, including their capab
 ## General
 
 - [Comparing models @ OpenRouter](https://openrouter.ai/models)
+- [Reasoning models](https://platform.openai.com/docs/guides/reasoning)
 
 ## Performance
 

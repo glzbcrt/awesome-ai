@@ -1,5 +1,6 @@
 # Context Engineering
 
+- [MemGPT:Towards LLMsasOperating Systems](https://arxiv.org/pdf/2310.08560)
 - [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
 - [Context Engineering - Short-Term Memory Management with Sessions from OpenAI Agents SDK](https://cookbook.openai.com/examples/agents_sdk/session_memory)
@@ -14,6 +15,11 @@
 
 - [How to trim messages](https://python.langchain.com/docs/how_to/trim_messages/)
 - [Provence: efficient and robust context pruning for retrieval-augmented generation](https://arxiv.org/abs/2501.16214)
+
+## Papers
+
+- [Large Language Models Can Be Easily Distracted by Irrelevant Context](https://arxiv.org/pdf/2302.00093)
+- [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172)
 
 ## Tools
 
@@ -62,6 +68,7 @@
 - [Memory and new controls for ChatGPT](https://openai.com/index/memory-and-new-controls-for-chatgpt/)
 - [ChatGPT Memory FAQ](https://help.openai.com/en/articles/8590148-memory-faq)
 - [JavaScript Object Notation (JSON) Patch](https://datatracker.ietf.org/doc/html/rfc6902)
+- [Exploring Claude Sonnet 4.5's powerful new memory tool](https://www.youtube.com/watch?v=pidnIHdA1Y8)
 
 ### Anthropic
 

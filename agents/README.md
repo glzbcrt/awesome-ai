@@ -17,6 +17,8 @@
 - [Agent File (.af): An open file format for stateful agents.](https://github.com/letta-ai/agent-file)
 - [Memory Blocks: The Key to Agentic Context Management](https://www.letta.com/blog/memory-blocks)
 - [The AI agents stack](https://www.letta.com/blog/ai-agents-stack)
+- [Stateful Agents: The Missing Link in LLM Intelligence](https://www.letta.com/blog/stateful-agents)
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 
 ## Memory
 
@@ -51,10 +53,22 @@
 
 - [E2B - AI Sandboxes](https://e2b.dev/)
 - [Modal - High-performance AI infrastructure](https://modal.com/)
-- [n8n](https://n8n.io/)
-- [Letta](https://www.letta.com/)
 - [Composio](https://composio.dev/)
 - [Rube](https://rube.app/)
+
+### Letta
+
+- [Letta](https://www.letta.com/)
+- [Building Stateful Agents with Letta](https://docs.letta.com/guides/agents/overview)
+
+### n8n
+
+- [n8n](https://n8n.io/)
+- [Master 80% of n8n in 36 Minutes](https://www.youtube.com/watch?v=e3OV3LnrS7o)
+- [n8n-azure-container-app](https://github.com/pjpaulor/n8n-azure-container-app)
+- [MCP Server Trigger node](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.mcptrigger/)
+- [n8n MCP](https://www.n8n-mcp.com/)
+- [Hosting n8n on Azure](https://docs.n8n.io/hosting/installation/server-setups/azure/)
 
 ## Open Source Projects
 
