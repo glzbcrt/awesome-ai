@@ -13,3 +13,9 @@ The building blocks of agents are:
 ## Videos
 
 - [Is The AI Infrastructure Buildout Overdone? — With Microsoft's Cloud & AI Head Scott Guthrie](https://www.youtube.com/watch?v=g6vFyuCZrVs)
+
+## Tools
+
+### Manus
+
+- [Manus](https://manus.im/)

@@ -2,6 +2,7 @@
 
 ## General
 
+- [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/)
 - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
 - [Evaluating success in a multi-agent system: Why trajectory assessment and handoffs matters](https://discuss.google.dev/t/evaluating-success-in-a-multi-agent-system-why-trajectory-assessment-and-handoffs-matters/193308)
 - [Agents are not tools](https://discuss.google.dev/t/agents-are-not-tools/192812)
@@ -55,22 +56,14 @@
 - [Modal - High-performance AI infrastructure](https://modal.com/)
 - [Composio](https://composio.dev/)
 - [Rube](https://rube.app/)
+- [Chroma](https://www.trychroma.com/)
 
 ### Letta
 
 - [Letta](https://www.letta.com/)
 - [Letta](https://github.com/letta-ai/letta)
 - [Building Stateful Agents with Letta](https://docs.letta.com/guides/agents/overview)
-
-### n8n
-
-- [n8n](https://n8n.io/)
-- [n8n](https://github.com/n8n-io/n8n)
-- [Master 80% of n8n in 36 Minutes](https://www.youtube.com/watch?v=e3OV3LnrS7o)
-- [n8n-azure-container-app](https://github.com/pjpaulor/n8n-azure-container-app)
-- [MCP Server Trigger node](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.mcptrigger/)
-- [n8n MCP](https://www.n8n-mcp.com/)
-- [Hosting n8n on Azure](https://docs.n8n.io/hosting/installation/server-setups/azure/)
+- [Agent Development Environment (ADE) Walkthrough](https://www.youtube.com/watch?v=OzSCFR0Lp5s)
 
 ## Samples
 

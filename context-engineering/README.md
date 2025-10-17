@@ -60,6 +60,7 @@
 
 ## Memory
 
+- [ChatGPT Memory and the Bitter Lesson](https://www.shloked.com/writing/chatgpt-memory-bitter-lesson)
 - [What is Agent Memory? Example using LangGraph and Redis](https://redis.io/learn/what-is-agent-memory-example-using-lang-graph-and-redis)
 - [Redis - A developer’s guide to agent memory](../assets/250826_Redis_ePub_Whitepaper_AIAgentMemory.pdf)
 - [Build smarter AI agents: Manage short-term and long-term memory with Redis](https://redis.io/blog/build-smarter-ai-agents-manage-short-term-and-long-term-memory-with-redis/)
