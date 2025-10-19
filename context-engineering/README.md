@@ -70,6 +70,7 @@
 - [ChatGPT Memory FAQ](https://help.openai.com/en/articles/8590148-memory-faq)
 - [JavaScript Object Notation (JSON) Patch](https://datatracker.ietf.org/doc/html/rfc6902)
 - [Exploring Claude Sonnet 4.5's powerful new memory tool](https://www.youtube.com/watch?v=pidnIHdA1Y8)
+- [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://mem0.ai/research)
 
 ### Anthropic
 
