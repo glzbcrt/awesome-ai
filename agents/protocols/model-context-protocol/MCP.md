@@ -36,6 +36,11 @@
 - [[Keynote] MCP201: The Protocol in Depth with David Soria Parra at Anthropic](https://www.youtube.com/watch?v=C_nqAWHsldo)
 - [Building with MCP and the Claude API](https://www.youtube.com/watch?v=aZLr962R6Ag)
 
+## MCP-UI
+
+- [MCP-UI](https://mcpui.dev/)
+- [[Session] MCP-UI: Next-gen Agentic Experiences](https://www.youtube.com/watch?v=SIXTArBVL5w)
+
 ## Tools
 
 ### MCP Inspector

@@ -2,6 +2,7 @@
 
 ## General
 
+- [Building more effective AI agents](https://www.youtube.com/watch?v=uhJJgc-0iTQ)
 - [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/)
 - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
 - [Evaluating success in a multi-agent system: Why trajectory assessment and handoffs matters](https://discuss.google.dev/t/evaluating-success-in-a-multi-agent-system-why-trajectory-assessment-and-handoffs-matters/193308)
