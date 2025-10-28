@@ -22,10 +22,18 @@
 - [Stateful Agents: The Missing Link in LLM Intelligence](https://www.letta.com/blog/stateful-agents)
 - [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 
+## Skills from Anthropic
+
+- [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
+- [Skills GitHub repo](https://github.com/anthropics/skills)
+- [PDF Skill](https://github.com/anthropics/skills/blob/main/document-skills/pdf/SKILL.md)
+- [Skills in the Cookbook](https://github.com/anthropics/claude-cookbooks/tree/main/skills)
+
 ## Memory
 
 - [Agent Memory: How to Build Agents that Learn and Remember](https://www.letta.com/blog/agent-memory)
 - [Introducing Claude Sonnet 4.5 and the memory omni-tool in Letta](https://www.letta.com/blog/introducing-sonnet-4-5-and-the-memory-omni-tool-in-letta)
+- [LLMs as Operating Systems: Agent Memory](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/)
 
 ## Protocols
 

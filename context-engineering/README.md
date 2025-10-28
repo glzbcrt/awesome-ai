@@ -43,6 +43,12 @@
 - [Introducing Contextual Retrieval](https://www.anthropic.com/engineering/contextual-retrieval)
 - [Enhancing RAG with Contextual Retrieval](https://github.com/anthropics/claude-cookbooks/blob/main/skills/contextual-embeddings/guide.ipynb)
 
+### Late Chunking
+
+- [Late Chunking: Balancing Precision and Cost in Long Context Retrieval](https://weaviate.io/blog/late-chunking)
+- [Late Chunking in Long-Context Embedding Models](https://jina.ai/news/late-chunking-in-long-context-embedding-models/)
+- [What Late Chunking Really Is & What It’s Not: Part II](https://jina.ai/news/what-late-chunking-really-is-and-what-its-not-part-ii/)
+
 ### Knowledge Graphs
 
 - [Knowledge Graph Generation](https://neo4j.com/blog/developer/knowledge-graph-generation/)

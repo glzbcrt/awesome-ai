@@ -18,6 +18,8 @@ Welcome to the OpenAI Models directory. This document provides links and resourc
 - [OpenAI’s open‑source model: gpt‑oss on Azure AI Foundry and Windows AI Foundry](https://azure.microsoft.com/en-us/blog/openais-open%e2%80%91source-model-gpt%e2%80%91oss-on-azure-ai-foundry-and-windows-ai-foundry/)
 - [openai/gpt-oss-20b @ HF](https://huggingface.co/openai/gpt-oss-20b)
 - [openai/gpt-oss-120b @ HF](https://huggingface.co/openai/gpt-oss-120b)
+- [The Illustrated GPT-OSS](https://newsletter.languagemodels.co/p/the-illustrated-gpt-oss)
+- [From GPT-2 to gpt-oss: Analyzing the Architectural Advances](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)
 
 ### Harmony Format
 

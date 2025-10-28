@@ -13,11 +13,18 @@
 - [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
 - [FineWeb: decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 - [Most devs don't understand how LLM tokens work](https://www.youtube.com/watch?v=nKSk_TiR8YA)
+- [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
+- [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 
 ### Mixture Of Experts
 
 - [Mixture of Experts (MoE) Introduction](https://www.youtube.com/watch?v=v7U21meXd6Y)
 - [The MoE 101 Guide](https://www.cerebras.ai/moe-guide)
+- [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
+
+### Reasoning Models
+
+- [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 
 ## Performance
 

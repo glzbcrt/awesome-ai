@@ -31,6 +31,8 @@ This section provides an overview of generative AI models, including their capab
 
 ## Model Inference
 
+- [Disaggregation in Large Language Models: the Next Evolution in AI Infrastructure](https://www.infoq.com/articles/llms-evolution-ai-infrastructure/)
+
 ### Servers
 
 - [llm-d](https://llm-d.ai/)
