@@ -1,5 +1,9 @@
 # Business
 
+## Pricing Models
+
+- [Pricing Models for LLM Apps](https://www.shloked.com/writing/ai-pricing-models)
+
 ## Videos
 
 - [Demis Hassabis (CEO of Google DeepMind) On The Future of Work in the Age of AI](https://www.youtube.com/watch?v=CRraHg4Ks_g)
@@ -24,3 +28,4 @@
 - [Datacenter Anatomy Part 1: Electrical Systems](https://semianalysis.com/2024/10/14/datacenter-anatomy-part-1-electrical/)
 - [Datacenter Anatomy Part 2 – Cooling Systems](https://newsletter.semianalysis.com/p/datacenter-anatomy-part-2-cooling-systems)
 - [AI Datacenter Energy Dilemma - Race for AI Datacenter Space](https://newsletter.semianalysis.com/p/ai-datacenter-energy-dilemma-race)
+- [THIS Is Where the Internet Lives](https://www.youtube.com/watch?v=v477fvbj3rk)

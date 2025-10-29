@@ -10,6 +10,7 @@
 - [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool)
 - [Launching Prompt Adaptation](https://www.notdiamond.ai/blog/launching-prompt-adaptation)
 - [Anatomy of a Context Window: A Guide to Context Engineering](https://www.letta.com/blog/guide-to-context-engineering)
+- [Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://research.trychroma.com/context-rot)
 
 ## Context Management
 

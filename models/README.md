@@ -44,6 +44,8 @@ This section provides an overview of generative AI models, including their capab
 
 ### Routers
 
+- [Multi-Model Apps and OpenRouter](https://www.shloked.com/writing/multi-model-open-router)
+
 - [OpenRouter](https://openrouter.ai/)
 - [LiteLLM](https://github.com/BerriAI/litellm)
 - [Cerebras](https://www.cerebras.ai)

@@ -13,6 +13,10 @@
 - [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
 - [How to build secure and scalable remote MCP servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)
 
+## Clients
+
+- [Example Clients](https://modelcontextprotocol.io/clients)
+
 ## Servers
 
 - [Microsoft MCP Servers](https://github.com/microsoft/mcp)
@@ -75,6 +79,8 @@ npx @modelcontextprotocol/server-everything
 - [FastMCP](https://gofastmcp.com)
 
 ## Security
+
+- [MCP Vulnerabilities Every Developer Should Know](https://composio.dev/blog/mcp-vulnerabilities-every-developer-should-know)
 
 ### Tool Poisoning
 
