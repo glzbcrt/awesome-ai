@@ -26,3 +26,13 @@
 - [How To Trigger n8n With Telegram Messages (AI Chatbot)](https://www.youtube.com/watch?v=9bGI8lHprVk)
 - [n8n Update: Use Claude Sonnet In Your Automations (New Anthropic Nodes)](https://www.youtube.com/watch?v=jc0ZgkCfbsI)
 - [N8N Tutorial For Beginners 2025 (Your First Automation)](https://www.youtube.com/watch?v=ZsaKSDQJ_P8)
+
+### YouTube and LinkedIn
+
+- [N8N Tutorial: How To Automate LinkedIn Content From YouTube Videos](https://www.youtube.com/watch?v=GhHYtL5pQXU)
+- Each YouTube channel has a RSS feed you can use in N8N.
+
+### OneDrive
+
+- [can-n8n-connect-to-onedrive-personal-account](https://community.n8n.io/t/can-n8n-connect-to-onedrive-personal-account/122762)
+- [How to fix OneDrive Personal connection to n8n](https://www.linkedin.com/posts/eatorres510_n8n-microsoft365-onedrive-activity-7333727830339457024-bWLh)
