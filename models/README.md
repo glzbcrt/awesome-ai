@@ -12,6 +12,10 @@ This section provides an overview of generative AI models, including their capab
 
 - [KV-Cache Wins You Can See: From Prefix Caching in vLLM to Distributed Scheduling with llm-d](https://llm-d.ai/blog/kvcache-wins-you-can-see)
 
+## Post-training
+
+- [Post-training of LLMs](https://www.deeplearning.ai/short-courses/post-training-of-llms/)
+
 ## Tracing
 
 - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)

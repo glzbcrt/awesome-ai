@@ -13,6 +13,9 @@
 - [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
 - [How to build secure and scalable remote MCP servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)
 
+- [Code execution with MCP: Building more efficient agents](https://www.anthropic.com/engineering/code-execution-with-mcp)
+- [Code Mode: the better way to use MCP](https://blog.cloudflare.com/code-mode/)
+
 ## Clients
 
 - [Example Clients](https://modelcontextprotocol.io/clients)
@@ -23,7 +26,14 @@
 - [Microsoft MCP Center ](https://mcp.azure.com/)
 - [GitHub MCP Server](https://github.com/github/github-mcp-server)
 - [SQL Server MCP Server](https://github.com/Azure-Samples/SQL-AI-samples/tree/main/MssqlMcp/dotnet)
-- [Docker mcp Servers](https://hub.docker.com/u/mcp)
+- [Docker MCP Servers](https://hub.docker.com/u/mcp)
+- [MetaMCP - MCP Aggregator, Orchestrator, Middleware, and Gateway](https://docs.metamcp.com/en)
+
+### Server Instructions
+
+- [Server Instructions: Giving LLMs a user manual for your server](https://blog.modelcontextprotocol.io/posts/2025-11-03-using-server-instructions/)
+- [everything.ts#L180 @ Everything MCP Server](https://github.com/modelcontextprotocol/servers/blob/main/src/everything/everything.ts#L180)
+- [schema.ts#L201 @ MCP spec](https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/schema/2025-06-18/schema.ts#L201)
 
 ### Reference MCP Servers for Common Scenarios
 

@@ -11,3 +11,9 @@
 ## Tools
 
 - [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/)
+
+## Sandbox
+
+- [Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing)
+- [Anthropic Sandbox Runtime (srt)](https://github.com/anthropic-experimental/sandbox-runtime)
+- [Fine-Grained Sandboxing with V8 Isolates](https://www.infoq.com/presentations/cloudflare-v8/)
