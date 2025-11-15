@@ -16,6 +16,8 @@
 - [China is quietly upstaging America with its open models](https://archive.ph/RuG4V)
 - [GPT-5 Set the Stage for Ad Monetization and the SuperApp](https://newsletter.semianalysis.com/p/gpt-5-ad-monetization-and-the-superapp)
 - [OpenAI and Anthropic v app developers: tech’s Cronos syndrome](https://archive.ph/0oh4r#selection-1453.66-1469.10)
+- [Google v Microsoft: the battle of AI business models](https://archive.ph/z4uTa)
+- [Inside Microsoft’s complicated relationship with OpenAI](https://archive.ph/lF3U4)
 
 ### Search-Engine VS Answer-Engine
 
@@ -30,6 +32,8 @@
 - [Datacenter Anatomy Part 2 – Cooling Systems](https://newsletter.semianalysis.com/p/datacenter-anatomy-part-2-cooling-systems)
 - [AI Datacenter Energy Dilemma - Race for AI Datacenter Space](https://newsletter.semianalysis.com/p/ai-datacenter-energy-dilemma-race)
 - [THIS Is Where the Internet Lives](https://www.youtube.com/watch?v=v477fvbj3rk)
+- [No Nvidia Chips Needed! Amazon’s New AI Data Center For Anthropic Is Truly Massive](https://www.youtube.com/watch?v=vnGC4YS36gU)
+- [How A Million Miles Of Undersea Cables Power The Internet — And Now AI](https://www.youtube.com/watch?v=Pz5XRyo5fiw)
 
 ## Payment
 
