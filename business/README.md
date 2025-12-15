@@ -13,6 +13,7 @@
 
 ## Articles
 
+- [It’s About Time: The Copilot Usage Report 2025](https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/)
 - [Why is AI so slow to spread? Economics can explain](https://archive.ph/feUoq)
 - [Artificial intelligence is losing hype](https://archive.ph/K7SXe)
 - [China is quietly upstaging America with its open models](https://archive.ph/RuG4V)
