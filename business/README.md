@@ -3,6 +3,8 @@
 ## Pricing Models
 
 - [Pricing Models for LLM Apps](https://www.shloked.com/writing/ai-pricing-models)
+- [We Spent $47K on AI Agents in Production. Here's What Broke. | Towards AI](https://archive.ph/17bPN)
+- [I Reverse-Engineered 200 AI Startups. 73% Are Lying | Towards AI](https://archive.ph/TdDSg)
 
 ## Videos
 
@@ -18,6 +20,10 @@
 - [OpenAI and Anthropic v app developers: tech’s Cronos syndrome](https://archive.ph/0oh4r#selection-1453.66-1469.10)
 - [Google v Microsoft: the battle of AI business models](https://archive.ph/z4uTa)
 - [Inside Microsoft’s complicated relationship with OpenAI](https://archive.ph/lF3U4)
+
+- [Microsoft's AI Strategy Deconstructed - From Energy to Tokens](https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed)
+
+- [How AI is breaking cover letters](https://archive.ph/bWMmW)
 
 ### Search-Engine VS Answer-Engine
 

@@ -8,6 +8,8 @@
 
 ## General
 
+- [Donating the Model Context Protocol and establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+
 - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 - [MCP Dev Days: Day 1 - DevTools](https://www.youtube.com/watch?v=8-okWLAUI3Q)
 - [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)

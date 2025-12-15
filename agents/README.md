@@ -23,6 +23,8 @@
 - [Stateful Agents: The Missing Link in LLM Intelligence](https://www.letta.com/blog/stateful-agents)
 - [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 
+- [Building AI Agents in Kotlin – Part 1: A Minimal Coding Agent](https://blog.jetbrains.com/ai/2025/11/building-ai-agents-in-kotlin-part-1-a-minimal-coding-agent/)
+
 ## Skills from Anthropic
 
 - [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
