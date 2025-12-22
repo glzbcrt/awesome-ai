@@ -13,6 +13,7 @@
 
 ## Articles
 
+- [Predictions 2026: Software Development](https://reprint.forrester.com/reports/predictions-2026-software-development-5c3dec9a/index.html)
 - [It’s About Time: The Copilot Usage Report 2025](https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/)
 - [Why is AI so slow to spread? Economics can explain](https://archive.ph/feUoq)
 - [Artificial intelligence is losing hype](https://archive.ph/K7SXe)
