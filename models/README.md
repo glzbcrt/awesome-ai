@@ -44,7 +44,7 @@ This section provides an overview of generative AI models, including their capab
 
 #### vLLM
 
-- [vLLM](https://docs.vllm.ai/en/latest/)
+- [vLLM](https://vllm.ai/)
 - [Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm)
 
 ### Routers
