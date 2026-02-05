@@ -47,6 +47,11 @@ This section provides an overview of generative AI models, including their capab
 - [vLLM](https://vllm.ai/)
 - [Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm)
 
+#### SGLang
+
+- [SGLang is a high-performance serving framework for large language models and multimodal models](https://www.sglang.io/)
+- [SGLang GitHub Repository](https://github.com/sgl-project/sglang)
+
 ### Routers
 
 - [Multi-Model Apps and OpenRouter](https://www.shloked.com/writing/multi-model-open-router)
