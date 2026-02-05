@@ -1,5 +1,9 @@
 # Business
 
+## Microsoft
+
+- [What Microsoft's $357B Market Cap Drop Actually Tells Us](https://www.linkedin.com/pulse/what-microsofts-357b-market-cap-drop-actually-tells-us-scott-judson-l53oc/)
+
 ## Pricing Models
 
 - [Pricing Models for LLM Apps](https://www.shloked.com/writing/ai-pricing-models)
