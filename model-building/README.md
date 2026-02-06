@@ -16,6 +16,9 @@
 - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 
+- [Stanford CS336 Language Modeling from Scratch I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+- [Stanford CME295: Transformers and Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
+
 ### Mixture Of Experts
 
 - [Mixture of Experts (MoE) Introduction](https://www.youtube.com/watch?v=v7U21meXd6Y)
