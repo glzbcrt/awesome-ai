@@ -31,6 +31,8 @@
 
 - [How AI is breaking cover letters](https://archive.ph/bWMmW)
 
+- [Claude Code is the Inflection Point](https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point)
+
 ### Search-Engine VS Answer-Engine
 
 - [To survive the AI age, the web needs a new business model](https://archive.ph/SbAPw)
