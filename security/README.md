@@ -11,6 +11,8 @@
 ## Tools
 
 - [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/)
+- [Presidio: Data Protection and De-identification SDK](https://microsoft.github.io/presidio/)
+
 
 ## Sandbox
 
