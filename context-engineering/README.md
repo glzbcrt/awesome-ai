@@ -28,6 +28,10 @@
 - [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](https://arxiv.org/abs/2505.03275)
 - [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
 
+## Prompts as Programs
+
+- [ell - A language model programming library.](https://github.com/MadcowD/ell)
+
 ## Retrieval Augmented Generation (RAG)
 
 - [Chunking Strategies to Improve Your RAG Performance](https://weaviate.io/blog/chunking-strategies-for-rag)
