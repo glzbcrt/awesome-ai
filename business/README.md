@@ -3,6 +3,7 @@
 ## Microsoft
 
 - [What Microsoft's $357B Market Cap Drop Actually Tells Us](https://www.linkedin.com/pulse/what-microsofts-357b-market-cap-drop-actually-tells-us-scott-judson-l53oc/)
+- [The Microsoft-OpenAI Divorce Is Official: Inside the $250 Billion Betrayal](https://archive.ph/UVy21)
 
 ## Pricing Models
 

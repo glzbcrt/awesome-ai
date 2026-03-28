@@ -8,6 +8,8 @@
 
 ## General
 
+- [Microsoft MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)
+
 - [Donating the Model Context Protocol and establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
