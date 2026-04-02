@@ -11,6 +11,8 @@
 - [We Spent $47K on AI Agents in Production. Here's What Broke. | Towards AI](https://archive.ph/17bPN)
 - [I Reverse-Engineered 200 AI Startups. 73% Are Lying | Towards AI](https://archive.ph/TdDSg)
 
+- [The Economics of LLM Inference: Batch Sizes, Latency Tiers, and Why Model Labs Have an Advantage](https://mlechner.substack.com/p/the-economics-of-llm-inference-batch)
+
 ## Videos
 
 - [Demis Hassabis (CEO of Google DeepMind) On The Future of Work in the Age of AI](https://www.youtube.com/watch?v=CRraHg4Ks_g)
@@ -33,6 +35,8 @@
 - [How AI is breaking cover letters](https://archive.ph/bWMmW)
 
 - [Claude Code is the Inflection Point](https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point)
+
+- [Why the Smartest People in Tech Are Quietly Panicking Right Now](https://medium.com/activated-thinker/why-the-smartest-people-in-tech-are-quietly-panicking-right-now-d2feb86e7e4b)
 
 ### Search-Engine VS Answer-Engine
 

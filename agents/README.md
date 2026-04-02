@@ -2,6 +2,8 @@
 
 ## General
 
+- [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
+
 - [Agents 2.0: From Shallow Loops to Deep Agents](https://www.philschmid.de/agents-2.0-deep-agents)
 - [Building more effective AI agents](https://www.youtube.com/watch?v=uhJJgc-0iTQ)
 - [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/)

@@ -12,10 +12,15 @@
 - [Anatomy of a Context Window: A Guide to Context Engineering](https://www.letta.com/blog/guide-to-context-engineering)
 - [Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://research.trychroma.com/context-rot)
 
+- [system_prompts_leaks - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more.](https://github.com/asgeirtj/system_prompts_leaks)
+- [Track Claude Code prompts over time](https://cchistory.mariozechner.at/)
+
 ## Context Management
 
 - [How to trim messages](https://python.langchain.com/docs/how_to/trim_messages/)
 - [Provence: efficient and robust context pruning for retrieval-augmented generation](https://arxiv.org/abs/2501.16214)
+- [Don't Fight the Weights](https://www.dbreunig.com/2025/11/11/don-t-fight-the-weights.html)
+- [Weird system prompt artefacts](https://blog.nilenso.com/blog/2026/02/12/weird-system-prompt-artefacts/)
 
 ## Papers
 
@@ -27,10 +32,12 @@
 - [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](https://arxiv.org/abs/2410.14594)
 - [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](https://arxiv.org/abs/2505.03275)
 - [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
+- [Context Viewer - Observability for contexts. Given a coversation log (messages), this tool will provide a breakdown of its components and their sizes.](https://github.com/nilenso/context-viewer)
 
 ## Prompts as Programs
 
 - [ell - A language model programming library.](https://github.com/MadcowD/ell)
+- [Mirascope - The LLM Anti-Framework](https://mirascope.com/)
 
 ## Retrieval Augmented Generation (RAG)
 

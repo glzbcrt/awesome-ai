@@ -1,5 +1,9 @@
 # Model Building
 
+## Tools
+
+- [Feast is an open source feature store that delivers structured data to AI and LLM applications at high scale during training and inference](https://feast.dev/)
+
 ## Videos
 
 - [Official PyTorch Documentary: Powering the AI Revolution](https://www.youtube.com/watch?v=rgP_LBtaUEc)

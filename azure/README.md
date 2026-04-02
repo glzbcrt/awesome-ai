@@ -6,3 +6,7 @@
 ## Model Router
 
 - [LTG153 : Automate model selection with Microsoft Foundry Model Router](https://github.com/microsoft/aitour26-LTG153-automate-model-selection-with-microsoft-foundry-model-router)
+
+## Microsoft IQ
+
+- [The Microsoft IQ Series](https://github.com/microsoft/iq-series)

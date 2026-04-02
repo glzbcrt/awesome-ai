@@ -20,6 +20,8 @@
 - [Code execution with MCP: Building more efficient agents](https://www.anthropic.com/engineering/code-execution-with-mcp)
 - [Code Mode: the better way to use MCP](https://blog.cloudflare.com/code-mode/)
 
+- [MCP-Atlas evaluates how well language models handle real-world tool use through the Model Context Protocol (MCP).](https://labs.scale.com/leaderboard/mcp_atlas)
+
 ## Clients
 
 - [Example Clients](https://modelcontextprotocol.io/clients)

@@ -8,6 +8,20 @@ Welcome to the OpenAI Models directory. This document provides links and resourc
 - [System and Model Cards](https://openai.com/research/index/?tags=system-cards)
 - [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
 
+- [Conversation state](https://developers.openai.com/api/docs/guides/conversation-state)
+- [WebSocket Mode](https://developers.openai.com/api/docs/guides/websocket-mode)
+- [Streaming API responses](https://developers.openai.com/api/docs/guides/streaming-responses)
+- [Compaction](https://developers.openai.com/api/docs/guides/compaction)
+- [Migrate to the Responses API](https://developers.openai.com/api/docs/guides/migrate-to-responses)
+
+- [Using tools](https://developers.openai.com/api/docs/guides/tools)
+- [Tool Shell](https://developers.openai.com/api/docs/guides/tools-shell)
+- [Function calling](https://developers.openai.com/api/docs/guides/function-calling)
+- [Structured model outputs](https://developers.openai.com/api/docs/guides/structured-outputs)
+
+- [Better performance from reasoning models using the Responses API](https://developers.openai.com/cookbook/examples/responses_api/reasoning_items)
+- [Web Search and States with Responses API](https://developers.openai.com/cookbook/examples/responses_api/responses_example)
+
 ## gpt-oss
 
 - [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/)
@@ -36,14 +50,23 @@ Welcome to the OpenAI Models directory. This document provides links and resourc
 - [GPT-5 New Params and Tools](https://cookbook.openai.com/examples/gpt-5/gpt-5_new_params_and_tools)
 - [GPT-5 Prompt Migration and Improvement Using the New Optimizer](https://cookbook.openai.com/examples/gpt-5/prompt-optimization-cookbook)
 
-### Security
+## GPT-5.4
 
-- []()
+- [Introducing GPT‑5.4](https://openai.com/index/introducing-gpt-5-4/)
+- [Using GPT-5.4](https://developers.openai.com/api/docs/guides/latest-model)
+- [Prompt guidance for GPT-5.4](https://developers.openai.com/api/docs/guides/prompt-guidance)
+
+## Reasoning
+
+- [Reasoning models](https://developers.openai.com/api/docs/guides/reasoning)
+- [Reasoning summaries](https://developers.openai.com/api/docs/guides/reasoning#reasoning-summaries)
 
 ## Tools
 
 - [Prompt Optimizer](http://platform.openai.com/chat/edit?optimize=true)
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
+
+- [Tool search](https://developers.openai.com/api/docs/guides/tools-tool-search)
 
 ## News
 
