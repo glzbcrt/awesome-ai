@@ -5,6 +5,8 @@
 - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 - [The lethal trifecta for AI agents](https://simonw.substack.com/p/the-lethal-trifecta-for-ai-agents)
 
+- [Agents Rule of Two: A Practical Approach to AI Agent Security](https://ai.meta.com/blog/practical-ai-agent-security/)
+
 ## Blogs
 
 - [Embrace The Red - learn the hacks, stop the attacks.](https://embracethered.com/blog/index.html)

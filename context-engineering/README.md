@@ -15,6 +15,14 @@
 - [system_prompts_leaks - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more.](https://github.com/asgeirtj/system_prompts_leaks)
 - [Track Claude Code prompts over time](https://cchistory.mariozechner.at/)
 
+- [How System Prompts Define Agent Behavior](https://www.dbreunig.com/2026/02/10/system-prompts-define-the-agent-as-much-as-the-model.html)
+- [Comparing Cursor's Prompts Across Models](https://www.adiasg.com/blog/comparing-cursors-prompts-across-models)
+
+- [Systematic Prompt Optimization for OpenAI Agents with GEPA](https://mlflow.org/blog/mlflow-prompt-optimization)
+
+- [Prompt Orchestration: Techniques, Challenges, and Best Practices](https://mirascope.com/blog/prompt-orchestration)
+- [11 Prompt Engineering Best Practices Every Modern Dev Needs](https://mirascope.com/blog/prompt-engineering-best-practices)
+
 ## Context Management
 
 - [How to trim messages](https://python.langchain.com/docs/how_to/trim_messages/)
@@ -33,6 +41,7 @@
 - [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](https://arxiv.org/abs/2505.03275)
 - [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
 - [Context Viewer - Observability for contexts. Given a coversation log (messages), this tool will provide a breakdown of its components and their sizes.](https://github.com/nilenso/context-viewer)
+- [Instructor: Top Multi-Language Library for Structured LLM Outputs](https://python.useinstructor.com/)
 
 ## Prompts as Programs
 

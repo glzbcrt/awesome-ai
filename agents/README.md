@@ -2,6 +2,26 @@
 
 ## General
 
+- [CodeAct in Agent Framework: Faster Agents with Fewer Model Turns](https://devblogs.microsoft.com/agent-framework/codeact-with-hyperlight/)
+
+- [Using logprobs](https://developers.openai.com/cookbook/examples/using_logprobs)
+
+- [Chat History Storage Patterns in Microsoft Agent Framework](https://devblogs.microsoft.com/agent-framework/chat-history-storage-patterns-in-microsoft-agent-framework/)
+- [Agent Skills in .NET: Three Ways to Author, One Provider to Run Them](https://devblogs.microsoft.com/agent-framework/agent-skills-in-net-three-ways-to-author-one-provider-to-run-them/)
+
+- [The Agent Execution Loop: How to Build an AI Agent From Scratch](https://newsletter.victordibia.com/p/the-agent-execution-loop-how-to-build)
+- [Building Your Own Claude Code from Scratch](https://newsletter.victordibia.com/p/building-a-claude-code-like-agent)
+- [How to Implement Context Engineering Strategies for your Agent (Claude Code)](https://newsletter.victordibia.com/p/context-engineering-101-how-agents)
+- [Agent Middleware: Adding Control and Observability to AI Agents](https://newsletter.victordibia.com/p/agent-middleware-adding-control-and)
+
+- [The Arc of Agent Action from Code to Tools and Back to Code - And Why Anthropic's SKILLS.md is Not New](https://newsletter.victordibia.com/p/the-arc-of-agent-action-from-code)
+
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- [Code execution with MCP: Building more efficient agents](https://www.anthropic.com/engineering/code-execution-with-mcp)
+
+- [Implementing Claude Code Skills from Scratch](https://newsletter.victordibia.com/p/implementing-claude-code-skills-from)
+- [Agent Skills](https://agentskills.io/home)
+
 - [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
 
 - [Agents 2.0: From Shallow Loops to Deep Agents](https://www.philschmid.de/agents-2.0-deep-agents)
@@ -54,6 +74,9 @@
 ## Tools
 
 - [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
+
+- [Pi: The Best Coding Agent You've (Probably) Never Heard Of](https://www.youtube.com/watch?v=IJe9CabMeTk)
+- [BAML - The First Language for Building Agents](https://boundaryml.com/)
 
 ## Observability
 
