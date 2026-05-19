@@ -7,6 +7,9 @@
 
 - [Agents Rule of Two: A Practical Approach to AI Agent Security](https://ai.meta.com/blog/practical-ai-agent-security/)
 
+- [Arcanum PI Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy/)
+- [P4RS3LT0NGV3 - Universal Text Translator](https://github.com/elder-plinius/P4RS3LT0NGV3)
+
 ## Blogs
 
 - [Embrace The Red - learn the hacks, stop the attacks.](https://embracethered.com/blog/index.html)
