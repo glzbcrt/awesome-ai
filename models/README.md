@@ -28,6 +28,8 @@ This section provides an overview of generative AI models, including their capab
 
 ## Tools
 
+- [LiteLLM AI Gateway](https://github.com/BerriAI/litellm)
+
 ### Observability
 
 - [Gen AI attributes on OpenTelemetry](https://opentelemetry.io/docs/specs/semconv/registry/attributes/gen-ai/)

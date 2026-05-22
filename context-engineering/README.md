@@ -37,6 +37,7 @@
 
 ## Tools
 
+- [Graphiti - Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
 - [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](https://arxiv.org/abs/2410.14594)
 - [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](https://arxiv.org/abs/2505.03275)
 - [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
@@ -112,6 +113,8 @@
 - [Amazon Bedrock AgentCore Memory: Building context-aware agents](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/)
 
 ### Tools and Frameworks
+
+- [MCPJam is the development platform for MCP servers, MCP apps, and ChatGPT apps.](https://www.mcpjam.com/)
 
 #### LangGraph
 
