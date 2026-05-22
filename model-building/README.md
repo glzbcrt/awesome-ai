@@ -3,6 +3,7 @@
 ## Tools
 
 - [Feast is an open source feature store that delivers structured data to AI and LLM applications at high scale during training and inference](https://feast.dev/)
+- [Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.](https://github.com/unslothai/unsloth)
 
 ## Videos
 

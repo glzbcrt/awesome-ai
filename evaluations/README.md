@@ -10,3 +10,4 @@
 - [Agenta - The open-source LLMOps platform](https://agenta.ai/)
 - [Langfuse - Open Source LLM Engineering Platform](https://langfuse.com/)
 - [Arize Phoenix: Open-source LLM tracing and evaluation](https://phoenix.arize.com/)
+- [deepeval - The LLM Evaluation Framework](https://github.com/confident-ai/deepeval)

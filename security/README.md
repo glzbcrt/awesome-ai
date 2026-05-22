@@ -23,6 +23,8 @@
 - [Python Risk Identification Tool for generative AI (PyRIT)](https://azure.github.io/PyRIT/)
 - [Presidio: Data Protection and De-identification SDK](https://microsoft.github.io/presidio/)
 - [garak - the LLM vulnerability scanner](https://github.com/NVIDIA/garak)
+- [agent-scan - Security scanner for AI agents, MCP servers and agent skills.](https://github.com/snyk/agent-scan)
+- [AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.](https://github.com/microsoft/agent-governance-toolkit)
 
 ## Sandbox
 
