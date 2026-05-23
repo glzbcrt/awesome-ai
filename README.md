@@ -19,3 +19,4 @@ The building blocks of agents are:
 ### Manus
 
 - [Manus](https://manus.im/)
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
