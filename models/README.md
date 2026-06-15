@@ -2,6 +2,12 @@
 
 This section provides an overview of generative AI models, including their capabilities, use cases, and integration details. Explore various architectures and learn how to leverage them for building intelligent applications.
 
+## Model Inference Providers
+
+- [Baseten](https://www.baseten.co/)
+- [OpenRouter](https://openrouter.ai/)
+- [Fireworks AI](https://fireworks.ai/)
+
 ## General
 
 - [Runpod - AI infrastructure developers trust](https://www.runpod.io/)
