@@ -11,3 +11,4 @@
 - [Langfuse - Open Source LLM Engineering Platform](https://langfuse.com/)
 - [Arize Phoenix: Open-source LLM tracing and evaluation](https://phoenix.arize.com/)
 - [deepeval - The LLM Evaluation Framework](https://github.com/confident-ai/deepeval)
+- [Agent QA - Agentic QA CLI for natural-language web and mobile tests](https://github.com/vostride/agent-qa)
