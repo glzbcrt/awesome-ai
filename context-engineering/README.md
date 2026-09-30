@@ -37,6 +37,7 @@
 
 ## Tools
 
+- [Hyperconsciousness - Developer-alpha Rust knowledge store with encrypted, append-only records and scoped, expiring MCP access for agent memory.](https://github.com/louis030195/hyperconsciousness)
 - [Graphiti - Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
 - [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](https://arxiv.org/abs/2410.14594)
 - [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](https://arxiv.org/abs/2505.03275)
